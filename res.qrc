@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/computer1.png</file>
+        <file>res/computer2.png</file>
+        <file>res/computer3.png</file>
+        <file>res/set.png</file>
+        <file>res/author.png</file>
+    </qresource>
+</RCC>
