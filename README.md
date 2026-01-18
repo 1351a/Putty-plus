@@ -4,6 +4,7 @@ Main interface:
 ![](https://github.com/1351a/Putty-plus/blob/main/images/show1.png)
 
 It preserves all core PuTTY functionality while adding a more modern user interface and session saving features (PuTTY’s original UI is honestly quite outdated).
+
 Settings interface:
 ![](https://github.com/1351a/Putty-plus/blob/main/images/show2.png)
 Click the gear icon at the bottom to open Settings, where you can:
