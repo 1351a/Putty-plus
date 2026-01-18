@@ -11,4 +11,4 @@ Click the gear icon at the bottom to open Settings, where you can:
 •	Change the path of the PuTTY executable used for connections
 •	Switch the application language (currently supported: English and Chinese)
 
-This project is developed using Qt 6.8 (C++) and is built with qmake.
+This project is developed using Qt_6_8_3_MinGW_64 and is built with qmake.
